@@ -18,3 +18,4 @@ resource storageaccount 'Microsoft.Storage/storageAccounts@2021-02-01' = {
     name: 'Standard_LRS'
   }
 }
+
